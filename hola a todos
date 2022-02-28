@@ -1,2 +1,14 @@
 de momento  deseo terminar los primeros pasos del curso de preparacion de Henry
 codigo: no existe
+var firstName = 'Facundo';
+let lastName = 'Chávez';
+const favoriteFood = 'Paella';
+
+
+
+console.log( firstName );
+console.log( lastName );
+console.log( favoriteFood );
+
+
+console.log( noDeclarada );
